@@ -1,4 +1,4 @@
-# Problem description can be found at https://www.codechef.com/OCT19B/problems/MSNG
+# problem description can be found at https://www.codechef.com/OCT19B/problems/MSNG
 
 t = int(input())
 for _ in range(t):
