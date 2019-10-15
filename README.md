@@ -17,7 +17,7 @@
 <body>
 <table>
   <tr>
-    <th>Problem</th>
+    <th>Codechef Problems</th>
     <th>URL</th>
     <th>Solution</th>
   </tr>
@@ -47,7 +47,7 @@
      
 <table>
   <tr>
-    <th>Problem</th>
+    <th>HackerRank Problems</th>
     <th>URL</th>
     <th>Solution</th>
   </tr>
@@ -59,6 +59,37 @@
   </tr>
   </tbody>
 </table>
-        
+
+
+<table>
+  <tr>
+    <th>LeetCode Problems</th>
+    <th>URL</th>
+    <th>Solution</th>
+  </tr>
+  <tbody>
+  <tr>
+    <th>Check132Pattern</th>
+    <th>https://leetcode.com/problems/132-pattern/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/Check132Pattern.java">Java</a></th>
+  </tr>
+  <tr>
+    <th>ContainerWithMostWater</th>
+    <th>https://leetcode.com/problems/container-with-most-water/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/ContainerWithMostWater.py">Python</a></th>
+  </tr>
+  <tr>
+    <th>HouseRobber2</th>
+    <th>https://leetcode.com/problems/house-robber-ii/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/HouseRobber2.py">Python</a></th>
+  </tr>
+  <tr>
+    <th>SearchIn2DMatrix</th>
+    <th>https://leetcode.com/problems/search-a-2d-matrix-ii/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/SearchIn2DMatrix.java">Java</a></th>
+  </tr>
+  </tbody>
+</table>
+
 </body>
 </html>
