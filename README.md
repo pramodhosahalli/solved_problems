@@ -38,11 +38,27 @@
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/October_Long/OperationsOnMatrix.java">Java</a>         </th>
   </tr> 
   <tr>
-    <th>RemoveMinCharactersToMakePalindrome</th>
+    <th>Make Palindrome</th>
     <th>https://www.codechef.com/QM162019/problems/KQM16B/</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/October_Long/RemoveMinCharsToMakePalindrome.py">Python</a>         </th>
   </tr> 
   </tbody>
 </table>
+     
+<table>
+  <tr>
+    <th>Problem</th>
+    <th>URL</th>
+    <th>Solution</th>
+  </tr>
+  <tbody>
+  <tr>
+    <th>GoodLand Electricity</th>
+    <th>https://www.hackerrank.com/challenges/pylons/problem</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/HackerRank/GoodLandElectricity.py">Python</a>         </th>
+  </tr>
+  </tbody>
+</table>
+        
 </body>
 </html>
