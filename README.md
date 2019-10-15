@@ -1,6 +1,19 @@
 ## Solved Problems from Various Coding Platforms
 
-<html>  
+<html lang="en">
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-6n1YJKtZY5Ca6umfKUilaXS5b6Cxywb+4eGfryi/HfvOYvzbbnahUwkAgkmpV9RExoZ8rSXE+q5o+j9V1KJQJQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-ee617bc9c481ffefa8d30b335398af1f.css" />
+
 <body>
 <table>
   <tr>
