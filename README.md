@@ -88,6 +88,32 @@
     <th>https://leetcode.com/problems/search-a-2d-matrix-ii/</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/SearchIn2DMatrix.java">Java</a></th>
   </tr>
+      
+  <tr>
+    <th>DecodeWays</th>
+    <th>https://leetcode.com/problems/decode-ways/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/DecodeWays.java">Java</a></th>
+  </tr>
+
+  <tr>
+    <th>HouseRobber2</th>
+    <th>https://leetcode.com/problems/house-robber-ii/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/HouseRobber2.py">Python</a></th>
+  </tr>
+
+  <tr>
+    <th>Jump Game 2</th>
+    <th>https://leetcode.com/problems/jump-game-ii/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/JumpGame2.go">Golang</a></th>
+  </tr>
+
+  <tr>
+    <th>Min Window Substring</th>
+    <th>https://leetcode.com/problems/minimum-window-substring/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/MinWindowSubstring.java">Java</a></th>
+  </tr>
+
+      
   </tbody>
 </table>
 
