@@ -113,6 +113,12 @@
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/MinWindowSubstring.java">Java</a></th>
   </tr>
 
+  <tr>
+    <th>Min In Sorted Rotated Array</th>
+    <th>https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/FindMinSortedRotArray.java">Java</a></th>
+  </tr>
+
       
   </tbody>
 </table>
