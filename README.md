@@ -57,9 +57,13 @@
     <th>https://www.hackerrank.com/challenges/pylons/problem</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/HackerRank/GoodLandElectricity.py">Python</a>         </th>
   </tr>
+  <tr>
+    <th>Largest Rectangle</th>
+    <th>https://www.hackerrank.com/challenges/largest-rectangle/problem</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/HackerRank/LargestRectangle.java">Java</a></th>
+  </tr>
   </tbody>
 </table>
-
 
 <table>
   <tr>
