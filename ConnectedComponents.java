@@ -1,4 +1,4 @@
-# This code counts number of connected components in a graph
+# This code counts number of connected components in an undirected graph
 
 import java.util.Arrays;
 import java.util.LinkedList;
