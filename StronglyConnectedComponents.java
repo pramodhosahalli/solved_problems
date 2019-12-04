@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Stack;
 
-//Implementation of Kosaraju's Algorithm
+//Implementation of Kosaraju's Algorithm O(V+E)
 public class StronglyConnectedComponents {
 
 	int n;
