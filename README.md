@@ -41,7 +41,44 @@
     <th>Make Palindrome</th>
     <th>https://www.codechef.com/QM162019/problems/KQM16B/</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/October_Long/RemoveMinCharsToMakePalindrome.py">Python</a>         </th>
-  </tr> 
+  </tr>
+      
+   <tr>
+    <th>Weapon Value</th>
+    <th>https://www.codechef.com/NOV19B/problems/SC31</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/NOV_Long/WeaponValue.java">Java</a></th>
+  </tr>
+  
+   <tr>
+    <th>Hard Sequence</th>
+    <th>https://www.codechef.com/NOV19B/problems/HRDSEQ</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/NOV_Long/HardSequence.java">Java</a></th>
+  </tr>
+
+   <tr>
+    <th>Physical Exercise</th>
+    <th>https://www.codechef.com/NOV19B/problems/PHCUL</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/NOV_Long/PhysicalExercise.java">Java</a></th>
+  </tr>
+
+   <tr>
+    <th>Chef and Min Coloring</th>
+    <th>https://www.codechef.com/NOV19B/problems/CAMC</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/NOV_Long/ChefAndColoring.java">Java</a></th>
+  </tr>
+
+   <tr>
+    <th>Zero to Infinity</th>
+    <th>https://www.codechef.com/NOV19B/problems/WEIRDO</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/NOV_Long/ZeroToINF.java">Java</a></th>
+  </tr>
+
+   <tr>
+    <th>Smallest Beautiful Number</th>
+    <th>https://www.codechef.com/NOV19B/problems/LSTBTF</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/Codechef/NOV_Long/SmallBeautyNumber.java">Java</a></th>
+  </tr>
+
   </tbody>
 </table>
      
