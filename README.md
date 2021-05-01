@@ -109,21 +109,43 @@
     <th>Solution</th>
   </tr>
   <tbody>
+      
+  <tr>
+    <th>Word Break</th>
+    <th>https://leetcode.com/problems/word-break/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/WordBreak.java">Java</a></th>
+  </tr>
+
+   <tr>
+    <th>Unique Paths 2</th>
+    <th>https://leetcode.com/problems/unique-paths-ii/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/UniquePaths2.java">Java</a></th>
+  </tr>
+
+   <tr>
+    <th>Longest Palindromic Subsequence</th>
+    <th>https://leetcode.com/problems/longest-palindromic-subsequence/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/LongestPalindromicSubsequence.java">Java</a></th>
+  </tr>
+
   <tr>
     <th>Check132Pattern</th>
     <th>https://leetcode.com/problems/132-pattern/</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/Check132Pattern.java">Java</a></th>
   </tr>
+  
   <tr>
     <th>ContainerWithMostWater</th>
     <th>https://leetcode.com/problems/container-with-most-water/</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/ContainerWithMostWater.py">Python</a></th>
   </tr>
+  
   <tr>
     <th>HouseRobber2</th>
     <th>https://leetcode.com/problems/house-robber-ii/</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/HouseRobber2.py">Python</a></th>
   </tr>
+  
   <tr>
     <th>SearchIn2DMatrix</th>
     <th>https://leetcode.com/problems/search-a-2d-matrix-ii/</th>
@@ -134,12 +156,6 @@
     <th>DecodeWays</th>
     <th>https://leetcode.com/problems/decode-ways/</th>
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/DecodeWays.java">Java</a></th>
-  </tr>
-
-  <tr>
-    <th>HouseRobber2</th>
-    <th>https://leetcode.com/problems/house-robber-ii/</th>
-    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/HouseRobber2.py">Python</a></th>
   </tr>
 
   <tr>
@@ -160,7 +176,30 @@
     <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/FindMinSortedRotArray.java">Java</a></th>
   </tr>
 
+  <tr>
+    <th>Last Stone Weight 2</th>
+    <th>https://leetcode.com/problems/last-stone-weight-ii/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/LastStoneWeight2.java">Java</a></th>
+  </tr>
+
+  <tr>
+    <th>Best Time to Buy Stocks with CoolDown</th>
+    <th>https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/BestTimeToBuyWithCoolDown.java">Java</a></th>
+  </tr>
       
+  <tr>
+    <th>Filling BookCase Shelves with Min Height</th>
+    <th>https://leetcode.com/problems/filling-bookcase-shelves/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/FillingBookCaseShelves.java">Java</a></th>
+  </tr>
+      
+   <tr>
+    <th>Minimum Cost Tree From Leaf Values</th>
+    <th>https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/</th>
+    <th><a href="https://github.com/pramodhosahalli/solved_problems/blob/master/LeetCode/MinCostTreeFromLeaf.java">Java</a></th>
+  </tr>
+
   </tbody>
 </table>
 
